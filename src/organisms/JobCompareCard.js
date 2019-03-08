@@ -8,41 +8,32 @@ import List from '../molecules/List';
 import ListItem from '../atoms/ListItem';
 import JobCompareWrapper from '../organisms/JobCompareWrapper';
 
-export default function JobCompareCard() {
+export default function JobCompareCard({ job }) {
+  const { Roles, Responsibilities, Qualifications } = job.description;
+
+  const renderList = items => {
+    return items && items.map((item, i) => <ListItem key={i}>{item}</ListItem>)
+  }
+
   return (
     <JobCompareWrapper>
       <CardContent>
-        <JobTitle>Senior Software Engineer</JobTitle>
-        <CompanyName>The Lions</CompanyName>
+        <JobTitle>{job.title}</JobTitle>
+        <CompanyName>{job.company.name}</CompanyName>
 
         <MidTitle>Role</MidTitle>
         <List>
-          <ListItem>
-            In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs.
-              </ListItem>
+          { renderList(Roles) }
         </List>
 
         <MidTitle>Responsibilities</MidTitle>
         <List>
-          <ListItem>
-            Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage and work processes; investigating problem areas; following the software development lifecycle
-              </ListItem>
-          <ListItem>
-            In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs.
-              </ListItem>
-          <ListItem>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora cupiditate neque sunt.
-              </ListItem>
+          {renderList(Responsibilities)}
         </List>
 
         <MidTitle>Qualifications</MidTitle>
         <List>
-          <ListItem>
-            4-8 years of software development experience
-              </ListItem>
-          <ListItem>
-            Strong understanding of computer science principles
-              </ListItem>
+          {renderList(Qualifications)}
         </List>
       </CardContent>
     </JobCompareWrapper>

@@ -9,16 +9,12 @@ import NavWrapper from '../molecules/NavWrapper';
 export default function Nav() {
   return (
     <NavWrapper>
-      <Brand>Swish</Brand>
+      <NavLink to="/"><Brand>Swish</Brand></NavLink>
       <Navigation>
         <NavLink to="/">
           <AppLink active>Jobs</AppLink>
         </NavLink>
-
-        <NavLink to="/about">
-          <AppLink>About</AppLink>
-        </NavLink>
-
+        <AppLink>About</AppLink>
         <AppLink>Profile</AppLink>
       </Navigation>
     </NavWrapper>

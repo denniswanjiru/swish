@@ -1,0 +1,225 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior Software Engineer",
+      "description": {
+        "Roles": [
+          "In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs",
+          "In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs"
+        ],
+        "Responsibilities": [
+          "Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage and work processes; investigating problem areas; following the software development lifecycle",
+          "In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs.",
+          "Implement software for automated testing at component, functional and system levels, including HITL (Hardware in the Loop) testing"
+        ],
+        "Qualifications": [
+          "4-8 years of software development experience",
+          "Strong understanding of computer science principles",
+          "Experience with C and/or C++"
+        ]
+      },
+      "company": {
+        "name": "Andela",
+        "brand": "https://pbs.twimg.com/profile_images/689851478706626561/yaVQgTCw_400x400.png",
+        "website": "https://andela.com",
+        "size": "51 to 200 Employees",
+        "type": "Company - Private",
+        "founded": "2010",
+        "industry": "Sales and Marketing",
+        "mission": "Brilliance is evenly distributed but opportunies are not.",
+        "vision": "Empowering tomorrow tech leaders by investing in today's talent",
+        "photos": ["photo1.png", "photo2.png", "photo3.png"]
+      },
+      "location": "New York, NY",
+      "Salary": "120k - 180k",
+      "Benefits": [
+        "Medical, Dental, Vision 401K non-matching Pre-tax commuter benefits Dog friendly Lunches a few times per week Quality of Life Perk 'Unlimited' PTO WFH Fridays Referral Program",
+        "Unlimited vacation/sick days are promised but nobody takes it due to intimidation from management to meet unrealistic deadlines.",
+        "London Benefits: Private Medical Insurance (BUPA), Dental, Pension, Life, Short Term & Long Term Disability.",
+        "New York Benefits and San Francisco: Medical, Dental, Vision, 401K, Flexible Spending Account, Commuter, Life, Short Term & Long Term Disability.",
+        "Full-time salary based on experience and meaningful equity in an industry-leading company.Amazing and accessible office locations in the heart of London, New York, and San Francisco."
+      ],
+      "timestamp": {
+        "createdAt": "2019-03-05T23:00:00+0000",
+        "updatedAt": "2019-03-05T23:00:00+0000"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Frontend Engineer",
+      "description": {
+        "Roles": [
+          "In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs"
+        ],
+        "Responsibilities": [
+          "Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage and work processes; investigating problem areas; following the software development lifecycle",
+          "In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs.",
+          "Implement software for automated testing at component, functional and system levels, including HITL (Hardware in the Loop) testing"
+        ],
+        "Qualifications": [
+          "4-8 years of software development experience",
+          "Strong understanding of computer science principles",
+          "Experience with C and/or C++"
+        ]
+      },
+      "company": {
+        "name": "The Lions",
+        "brand": "https://media.licdn.com/dms/image/C4E0BAQFiWAnpENrkSQ/company-logo_400_400/0?e=1560384000&v=beta&t=r15pk0qN5DFpzqvwqn_qrU30T7X4GfoLMAqUmwRtwGI",
+        "website": "https://andela.com",
+        "size": "51 to 200 Employees",
+        "type": "Company - Private",
+        "founded": "2010",
+        "industry": "Sales and Marketing",
+        "mission": "Brilliance is evenly distributed but opportunies are not.",
+        "vision": "Empowering tomorrow tech leaders by investing in today's talent",
+        "photos": ["photo1.png", "photo2.png", "photo3.png"]
+      },
+      "location": "San Francisco, CA",
+      "Salary": "120k - 180k",
+      "Benefits": [
+        "Medical, Dental, Vision 401K non-matching Pre-tax commuter benefits Dog friendly Lunches a few times per week Quality of Life Perk 'Unlimited' PTO WFH Fridays Referral Program",
+        "Unlimited vacation/sick days are promised but nobody takes it due to intimidation from management to meet unrealistic deadlines.",
+        "London Benefits: Private Medical Insurance (BUPA), Dental, Pension, Life, Short Term & Long Term Disability.",
+        "New York Benefits and San Francisco: Medical, Dental, Vision, 401K, Flexible Spending Account, Commuter, Life, Short Term & Long Term Disability.",
+        "Full-time salary based on experience and meaningful equity in an industry-leading company.Amazing and accessible office locations in the heart of London, New York, and San Francisco."
+      ],
+      "timestamp": {
+        "createdAt": "2019-03-05T23:00:00+0000",
+        "updatedAt": "2019-03-05T23:00:00+0000"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Software Engineer",
+      "description": {
+        "Roles": [
+          "In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs"
+        ],
+        "Responsibilities": [
+          "Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage and work processes; investigating problem areas; following the software development lifecycle",
+          "In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs.",
+          "Implement software for automated testing at component, functional and system levels, including HITL (Hardware in the Loop) testing"
+        ],
+        "Qualifications": [
+          "4-8 years of software development experience",
+          "Strong understanding of computer science principles",
+          "Experience with C and/or C++"
+        ]
+      },
+      "company": {
+        "name": "Google",
+        "brand": "https://cdn3.iconfinder.com/data/icons/google-suits-1/32/1_google_search_logo_engine_service_suits-512.png",
+        "website": "https://andela.com",
+        "size": "51 to 200 Employees",
+        "type": "Company - Private",
+        "founded": "2010",
+        "industry": "Sales and Marketing",
+        "mission": "Brilliance is evenly distributed but opportunies are not.",
+        "vision": "Empowering tomorrow tech leaders by investing in today's talent",
+        "photos": ["photo1.png", "photo2.png", "photo3.png"]
+      },
+      "location": "Mountain view, CA",
+      "Salary": "120k - 180k",
+      "Benefits": [
+        "Medical, Dental, Vision 401K non-matching Pre-tax commuter benefits Dog friendly Lunches a few times per week Quality of Life Perk 'Unlimited' PTO WFH Fridays Referral Program",
+        "Unlimited vacation/sick days are promised but nobody takes it due to intimidation from management to meet unrealistic deadlines.",
+        "London Benefits: Private Medical Insurance (BUPA), Dental, Pension, Life, Short Term & Long Term Disability.",
+        "New York Benefits and San Francisco: Medical, Dental, Vision, 401K, Flexible Spending Account, Commuter, Life, Short Term & Long Term Disability.",
+        "Full-time salary based on experience and meaningful equity in an industry-leading company.Amazing and accessible office locations in the heart of London, New York, and San Francisco."
+      ],
+      "timestamp": {
+        "createdAt": "2019-03-05T23:00:00+0000",
+        "updatedAt": "2019-03-05T23:00:00+0000"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Data Engineer",
+      "description": {
+        "Roles": [
+          "In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs"
+        ],
+        "Responsibilities": [
+          "Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage and work processes; investigating problem areas; following the software development lifecycle",
+          "In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs.",
+          "Implement software for automated testing at component, functional and system levels, including HITL (Hardware in the Loop) testing"
+        ],
+        "Qualifications": [
+          "4-8 years of software development experience",
+          "Strong understanding of computer science principles",
+          "Experience with C and/or C++"
+        ]
+      },
+      "company": {
+        "name": "Amazon",
+        "brand": "https://pmcvariety.files.wordpress.com/2018/01/amazon-logo.jpg?w=1000&h=562&crop=1",
+        "website": "https://andela.com",
+        "size": "51 to 200 Employees",
+        "type": "Company - Private",
+        "founded": "2010",
+        "industry": "Sales and Marketing",
+        "mission": "Brilliance is evenly distributed but opportunies are not.",
+        "vision": "Empowering tomorrow tech leaders by investing in today's talent",
+        "photos": ["photo1.png", "photo2.png", "photo3.png"]
+      },
+      "location": "Seatle, WA",
+      "Salary": "120k - 180k",
+      "Benefits": [
+        "Medical, Dental, Vision 401K non-matching Pre-tax commuter benefits Dog friendly Lunches a few times per week Quality of Life Perk 'Unlimited' PTO WFH Fridays Referral Program",
+        "Unlimited vacation/sick days are promised but nobody takes it due to intimidation from management to meet unrealistic deadlines.",
+        "London Benefits: Private Medical Insurance (BUPA), Dental, Pension, Life, Short Term & Long Term Disability.",
+        "New York Benefits and San Francisco: Medical, Dental, Vision, 401K, Flexible Spending Account, Commuter, Life, Short Term & Long Term Disability.",
+        "Full-time salary based on experience and meaningful equity in an industry-leading company.Amazing and accessible office locations in the heart of London, New York, and San Francisco."
+      ],
+      "timestamp": {
+        "createdAt": "2019-03-05T23:00:00+0000",
+        "updatedAt": "2019-03-05T23:00:00+0000"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Junior Software Engineer",
+      "description": {
+        "Roles": [
+          "In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs"
+        ],
+        "Responsibilities": [
+          "Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage and work processes; investigating problem areas; following the software development lifecycle",
+          "In this role, you will primarily work as a Senior Backend Engineer within the Technology department building world-class internal products to support Andela’s business needs.",
+          "Implement software for automated testing at component, functional and system levels, including HITL (Hardware in the Loop) testing"
+        ],
+        "Qualifications": [
+          "4-8 years of software development experience",
+          "Strong understanding of computer science principles",
+          "Experience with C and/or C++"
+        ]
+      },
+      "company": {
+        "name": "Facebook",
+        "brand": "https://www.integrativepsychiatry.net/_uploaded_files/test-productproducts7479promo_pic.png",
+        "website": "https://andela.com",
+        "size": "51 to 200 Employees",
+        "type": "Company - Private",
+        "founded": "2010",
+        "industry": "Sales and Marketing",
+        "mission": "Brilliance is evenly distributed but opportunies are not.",
+        "vision": "Empowering tomorrow tech leaders by investing in today's talent",
+        "photos": ["photo1.png", "photo2.png", "photo3.png"]
+      },
+      "location": "Palo Alto, CA",
+      "Salary": "120k - 180k",
+      "Benefits": [
+        "Medical, Dental, Vision 401K non-matching Pre-tax commuter benefits Dog friendly Lunches a few times per week Quality of Life Perk 'Unlimited' PTO WFH Fridays Referral Program",
+        "Unlimited vacation/sick days are promised but nobody takes it due to intimidation from management to meet unrealistic deadlines.",
+        "London Benefits: Private Medical Insurance (BUPA), Dental, Pension, Life, Short Term & Long Term Disability.",
+        "New York Benefits and San Francisco: Medical, Dental, Vision, 401K, Flexible Spending Account, Commuter, Life, Short Term & Long Term Disability.",
+        "Full-time salary based on experience and meaningful equity in an industry-leading company.Amazing and accessible office locations in the heart of London, New York, and San Francisco."
+      ],
+      "timestamp": {
+        "createdAt": "2019-03-05T23:00:00+0000",
+        "updatedAt": "2019-03-05T23:00:00+0000"
+      }
+    }
+  ]
+}

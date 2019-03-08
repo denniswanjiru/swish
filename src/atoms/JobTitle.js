@@ -5,5 +5,4 @@ export default styled.h2`
   font-weight: 400;
   margin: 0;
   padding: 0;
-  margin-bottom: 10px;
 `;

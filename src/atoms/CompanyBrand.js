@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export default styled.img`
-  height: 70px;
-  width: 70px;
+  height: 60px;
+  width: 60px;
   margin: 0;
 `;

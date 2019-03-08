@@ -7,7 +7,7 @@ export default function Routes() {
   return (
     <Switch>
       <Route exact path="/" component={Jobs} />
-      <Route exact path="/about" component={Compare} />
+      <Route exact path="/compare" component={Compare} />
     </Switch>
   )
 }
