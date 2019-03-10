@@ -20,7 +20,7 @@ export default class Jobs  extends Component {
 
   renderJobs = () => {
     const { jobs } = this.props.store;
-    return jobs.map(job => (<JobCard key={job.id} job={job} />))
+    return jobs && jobs.map(job => (<JobCard key={job.id} job={job} />))
   }
 
   renderChips = () => {

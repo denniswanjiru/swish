@@ -1,13 +1,15 @@
 import { observable, action, computed } from 'mobx';
 
 class JobStore {
+  BASE_URL = 'https://swish-app-server.herokuapp.com/jobs'
   @observable jobs = [];
   @observable selected = [];
+  @observable activeTab = "desc";
 
   @action fetchJobs = () => {
-    fetch('/src/assets/db/db.json')
+    fetch('https://swish-app-server.herokuapp.com/jobs')
       .then(res => res.json())
-      .then(data => this.jobs = data.jobs);
+      .then(data => this.jobs = data);
   }
 
   @action addSelected = job => {
@@ -16,6 +18,10 @@ class JobStore {
 
   @action removeSelected = id => {
     this.selected = this.selected.filter(select => select.id !== id);
+  }
+
+  @action updateActiveTab = tab => {
+    this.activeTab = tab;
   }
 
   @computed get allJobs() {

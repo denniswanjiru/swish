@@ -28,7 +28,7 @@ export default class Compare extends Component {
   }
 
   render() {
-    const { selected } = this.props.store
+    const { selected, activeTab } = this.props.store
     return (
       <PageWrapper>
         <Chips>
@@ -37,7 +37,7 @@ export default class Compare extends Component {
         <CompareTabs>
           <Tabs />
         </CompareTabs>
-        <CompareJobs jobs={selected} />
+        <CompareJobs jobs={selected} activeTab={activeTab} />
       </PageWrapper>
     )
   }
